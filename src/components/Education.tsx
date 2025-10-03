@@ -26,7 +26,7 @@ const Education = () => {
       period: "2022 - 2026",
       degree: "B.E. in Computer Science and Engineering",
       institution: "Anna University - MIT Campus",
-      location: "Tiruchirapalli, Thuraiyur 621010",
+      location: "Chennai Chromepet 600044",
       grade: "CGPA: 8.74",
       description: "Currently pursuing Bachelor of Engineering in Computer Science with focus on software development, algorithms, and modern web technologies.",
       icon: "🎓"

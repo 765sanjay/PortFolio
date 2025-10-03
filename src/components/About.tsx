@@ -59,7 +59,7 @@ const About = () => {
                 <h3 className="text-2xl font-bold text-gray-800 mb-4">Who I Am</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
                   I'm Sanjay A R, a dedicated Computer Science Engineering student at Anna University - MIT Campus, 
-                  Tiruchirapalli. With a CGPA of 8.74, I'm passionate about creating innovative web solutions and 
+                  Chennai. With a CGPA of 8.74, I'm passionate about creating innovative web solutions and 
                   exploring cutting-edge technologies.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
