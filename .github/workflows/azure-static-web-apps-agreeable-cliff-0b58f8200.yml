@@ -21,7 +21,7 @@ jobs:
           lfs: false
        # ✅ Step 1: Setup Node.js version (important for React builds)
       - name: Set up Node.js
-      - uses: actions/setup-node@v3
+        uses: actions/setup-node@v3
         with:
           node-version: '18'   # Use Node 18 LTS for React 18 projects
 
@@ -55,4 +55,5 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_AGREEABLE_CLIFF_0B58F8200 }}
           action: "close"
+
 
